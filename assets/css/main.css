@@ -6,6 +6,17 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+#profile-img{
+	width: 300px;
+	height: 300px;
+	/* border-radius: 40px; */
+	object-fit:scale-down;
+	border-top-left-radius: 1000px;
+    border-top-right-radius: 1000px;
+    border-bottom-left-radius: 1000px;
+    border-bottom-right-radius: 1000px;
+}
+
 #live-repo-butt{
 	display: flex;
 	flex-direction: row;
